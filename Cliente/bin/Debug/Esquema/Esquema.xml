@@ -1,0 +1,219 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Esquemas>
+    <codigo>0000      </codigo>
+    <imagen>apagado.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>0001      </codigo>
+    <imagen>apagado.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>0010      </codigo>
+    <imagen>verde.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>0011      </codigo>
+    <imagen>verde.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>0020      </codigo>
+    <imagen>apagado.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>0021      </codigo>
+    <imagen>verde.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>0100      </codigo>
+    <imagen>amarillo.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>0101      </codigo>
+    <imagen>amarillo.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>0110      </codigo>
+    <imagen>AmarilloVerde.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>0111      </codigo>
+    <imagen>AmarilloVerde.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>0120      </codigo>
+    <imagen>amarillo.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>0121      </codigo>
+    <imagen>AmarilloVerde.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>0200      </codigo>
+    <imagen>apagado.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>0201      </codigo>
+    <imagen>amarillo.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>0210      </codigo>
+    <imagen>verde.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>0211      </codigo>
+    <imagen>AmarilloVerde.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>0220      </codigo>
+    <imagen>apagado.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>0221      </codigo>
+    <imagen>AmarilloVerde.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>1000      </codigo>
+    <imagen>rojo.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>1001      </codigo>
+    <imagen>rojo.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>1010      </codigo>
+    <imagen>RojoVerde.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>1011      </codigo>
+    <imagen>RojoVerde.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>1020      </codigo>
+    <imagen>rojo.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>1021      </codigo>
+    <imagen>RojoVerde.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>1100      </codigo>
+    <imagen>amarillo - rojo.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>1101      </codigo>
+    <imagen>amarillo - rojo.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>1110      </codigo>
+    <imagen>amarillo - rojo - verde.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>1111      </codigo>
+    <imagen>amarillo - rojo - verde.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>1120      </codigo>
+    <imagen>amarillo - rojo.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>1121      </codigo>
+    <imagen>amarillo - rojo - verde.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>1200      </codigo>
+    <imagen>rojo.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>1201      </codigo>
+    <imagen>amarillo - rojo.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>1210      </codigo>
+    <imagen>RojoVerde.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>1211      </codigo>
+    <imagen>amarillo - rojo - verde.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>1220      </codigo>
+    <imagen>rojo.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>1221      </codigo>
+    <imagen>amarillo - rojo - verde.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>2000      </codigo>
+    <imagen>apagado.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>2001      </codigo>
+    <imagen>rojo.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>2010      </codigo>
+    <imagen>verde.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>2011      </codigo>
+    <imagen>RojoVerde.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>2020      </codigo>
+    <imagen>apagado.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>2021      </codigo>
+    <imagen>RojoVerde.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>2100      </codigo>
+    <imagen>amarillo.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>2101      </codigo>
+    <imagen>amarillo - rojo.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>2110      </codigo>
+    <imagen>AmarilloVerde.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>2111      </codigo>
+    <imagen>amarillo - rojo - verde.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>2120      </codigo>
+    <imagen>amarillo.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>2121      </codigo>
+    <imagen>amarillo - rojo - verde.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>2200      </codigo>
+    <imagen>apagado.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>2201      </codigo>
+    <imagen>amarillo - rojo.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>2210      </codigo>
+    <imagen>verde.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>2211      </codigo>
+    <imagen>amarillo - rojo - verde.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>2220      </codigo>
+    <imagen>apagado.png</imagen>
+  </Esquemas>
+  <Esquemas>
+    <codigo>2221      </codigo>
+    <imagen>amarillo - rojo - verde.png</imagen>
+  </Esquemas>
+</NewDataSet>
